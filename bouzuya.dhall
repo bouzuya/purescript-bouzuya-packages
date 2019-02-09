@@ -15,7 +15,7 @@ in  { bouzuya-command-line-option-parser =
         , "prelude"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-datetime.git"
-        "v0.1.0"
+        "v0.1.1"
     , bouzuya-geojson =
         mkPackage
         [ "simple-json"
