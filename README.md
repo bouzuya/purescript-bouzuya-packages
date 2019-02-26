@@ -10,7 +10,7 @@ https://github.com/spacchetti/spacchetti/tree/20190105/src/groups
 
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190224/bouzuya.dhall sha256:da986e65dc5065e337d1e949faca18af5b405e8d539c2d7ba17d55d1eba9625a
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190225/bouzuya.dhall sha256:b62536e0ea962fb3c8f992e953f5e2373bf67d06a2402581bf7afb886edf82a5
 
 let additions = {=} ⫽ bouzuya
 ```
