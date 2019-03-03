@@ -63,4 +63,16 @@ in  { bouzuya-command-line-option-parser =
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-status-code.git"
         "v0.2.0"
+    , bouzuya-template-string =
+        mkPackage
+        [ "arrays"
+        , "either"
+        , "foreign-object"
+        , "maybe"
+        , "partial"
+        , "prelude"
+        , "strings"
+        ]
+        "https://github.com/bouzuya/purescript-bouzuya-template-string.git"
+        "v0.1.0"
     }
