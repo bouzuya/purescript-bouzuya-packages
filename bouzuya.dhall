@@ -8,7 +8,7 @@ in  { bouzuya-command-line-option-parser =
         , "strings"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-command-line-option-parser.git"
-        "v0.1.0"
+        "v0.2.0"
     , bouzuya-datetime =
         mkPackage
         [ "datetime"
