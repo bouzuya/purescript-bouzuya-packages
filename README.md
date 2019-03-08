@@ -6,11 +6,9 @@ This repository is used by [spacchetti/spacchetti][] or [spacchetti/spago][].
 
 ## Note
 
-https://github.com/spacchetti/spacchetti/tree/20190105/src/groups
-
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190303/bouzuya.dhall sha256:9d0917cf2d287aa523b2efe295d9e7973d32fa166072239f97508d966a9fb2a1
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190308/bouzuya.dhall sha256:c511e931481b5cd641c19ff3bfda3fd74aa681f7a05f0ef3956bd056962b7037
 
 let additions = {=} ⫽ bouzuya
 ```
