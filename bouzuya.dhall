@@ -74,5 +74,5 @@ in  { bouzuya-command-line-option-parser =
         , "strings"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-template-string.git"
-        "v0.1.0"
+        "v1.0.0"
     }
