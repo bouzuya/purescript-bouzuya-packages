@@ -1,8 +1,8 @@
 # purescript-bouzuya-packages
 
-Spacchetti package sets for [bouzuya](https://github.com/bouzuya).
+A package set for [bouzuya](https://github.com/bouzuya).
 
-This repository is used by [spacchetti/spacchetti][] or [spacchetti/spago][].
+This repository is used by [spacchetti/spago][].
 
 ## Note
 
