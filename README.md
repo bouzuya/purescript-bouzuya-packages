@@ -13,5 +13,4 @@ let bouzuya =
 let additions = {=} ⫽ bouzuya
 ```
 
-[spacchetti/spacchetti]: https://github.com/spacchetti/spacchetti
 [spacchetti/spago]: https://github.com/spacchetti/spago
