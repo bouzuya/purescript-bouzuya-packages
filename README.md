@@ -8,7 +8,7 @@ This repository is used by [spacchetti/spago][].
 
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190404/bouzuya.dhall sha256:3702af6ef7090042a41f17beef133361cb615950254d8dbcf170e275e44c580e
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190405/bouzuya.dhall sha256:5fbd09f64d2b0bc916ee93070266d545effe8b28d4250ec98429a9dc8fa3dbed
 
 let additions = {=} // bouzuya
 ```
