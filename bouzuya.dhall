@@ -24,7 +24,7 @@ in  { bouzuya-command-line-option-parser =
         , "strings"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-datetime-formatter.git"
-        "v1.0.0"
+        "v1.1.0"
     , bouzuya-geojson =
         mkPackage
         [ "simple-json"
