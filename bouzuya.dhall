@@ -43,7 +43,7 @@ in  { bouzuya-command-line-option-parser =
         , "prelude"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-client.git"
-        "v0.1.0"
+        "v1.0.0"
     , bouzuya-http-method =
         mkPackage
         [ "foldable-traversable"
