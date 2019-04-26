@@ -21,7 +21,7 @@ This repository is used by [spacchetti/spago][].
 
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190414/bouzuya.dhall sha256:36c63206b8f172fb9823a4d45abf99640b31e8cf6ff60dc8f2a13aada559ce9c
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190426/bouzuya.dhall sha256:86675151328c67535e1724c626da89176fe99e07938eabaabfd3f7bff3d9584e
 
 let additions = {=} // bouzuya
 ```
