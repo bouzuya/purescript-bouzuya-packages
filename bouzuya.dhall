@@ -15,7 +15,7 @@ in  { bouzuya-command-line-option-parser =
         , "prelude"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-datetime.git"
-        "v1.0.0"
+        "v2.0.0"
     , bouzuya-datetime-formatter =
         mkPackage
         [ "bouzuya-datetime"
