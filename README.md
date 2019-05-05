@@ -16,6 +16,7 @@ This repository is used by [spacchetti/spago][].
 - [bouzuya/purescript-bouzuya-http-status-code][]
 - [bouzuya/purescript-bouzuya-string-case][]
 - [bouzuya/purescript-bouzuya-template-string][]
+- [bouzuya/purescript-bouzuya-uuid-v4][]
 
 ## Note
 
@@ -36,4 +37,5 @@ let additions = {=} // bouzuya
 [bouzuya/purescript-bouzuya-http-status-code]: https://github.com/bouzuya/purescript-bouzuya-http-status-code
 [bouzuya/purescript-bouzuya-string-case]: https://github.com/bouzuya/purescript-bouzuya-string-case
 [bouzuya/purescript-bouzuya-template-string]: https://github.com/bouzuya/purescript-bouzuya-template-string
+[bouzuya/purescript-bouzuya-uuid-v4]: https://github.com/bouzuya/purescript-bouzuya-uuid-v4
 [spacchetti/spago]: https://github.com/spacchetti/spago

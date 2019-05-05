@@ -92,4 +92,11 @@ in  { bouzuya-command-line-option-parser =
         ]
         "https://github.com/bouzuya/purescript-bouzuya-template-string.git"
         "v1.0.0"
+    , bouzuya-uuid-v4 =
+        mkPackage
+        [ "crypto"
+        , "strings"
+        ]
+        "https://github.com/bouzuya/purescript-bouzuya-uuid-v4.git"
+        "v0.1.1"
     }
