@@ -22,7 +22,7 @@ This repository is used by [spacchetti/spago][].
 
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190426/bouzuya.dhall sha256:86675151328c67535e1724c626da89176fe99e07938eabaabfd3f7bff3d9584e
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190505/bouzuya.dhall sha256:3dcf7f51156bb3fe6823207723ddc0bea919d8ffee3c99fd77f270f944411990
 
 let additions = {=} // bouzuya
 ```
