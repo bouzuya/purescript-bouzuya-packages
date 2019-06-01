@@ -72,6 +72,12 @@ in  { bouzuya-command-line-option-parser =
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-status-code.git"
         "v0.2.0"
+    , bouzuya-st =
+        mkPackage
+        [ "st"
+        ]
+        "https://github.com/bouzuya/purescript-bouzuya-st.git"
+        "v0.1.0"
     , bouzuya-string-case =
         mkPackage
         [ "arrays"
