@@ -74,10 +74,10 @@ in  { bouzuya-command-line-option-parser =
         "v0.2.0"
     , bouzuya-st =
         mkPackage
-        [ "st"
+        [ "arrays"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-st.git"
-        "v0.1.0"
+        "v0.2.0"
     , bouzuya-string-case =
         mkPackage
         [ "arrays"
