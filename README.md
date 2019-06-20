@@ -10,6 +10,7 @@ A package set for [bouzuya](https://github.com/bouzuya).
 - [bouzuya/purescript-bouzuya-geojson][]
 - [bouzuya/purescript-bouzuya-http-client][]
 - [bouzuya/purescript-bouzuya-http-method][]
+- [bouzuya/purescript-bouzuya-http-request-normalized-path][]
 - [bouzuya/purescript-bouzuya-http-server][]
 - [bouzuya/purescript-bouzuya-http-status-code][]
 - [bouzuya/purescript-bouzuya-st][]
@@ -32,6 +33,7 @@ let additions = {=} // bouzuya
 [bouzuya/purescript-bouzuya-geojson]: https://github.com/bouzuya/purescript-bouzuya-geojson
 [bouzuya/purescript-bouzuya-http-client]: https://github.com/bouzuya/purescript-bouzuya-http-client
 [bouzuya/purescript-bouzuya-http-method]: https://github.com/bouzuya/purescript-bouzuya-http-method
+[bouzuya/purescript-bouzuya-http-request-normalized-path]: https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path
 [bouzuya/purescript-bouzuya-http-server]: https://github.com/bouzuya/purescript-bouzuya-http-server
 [bouzuya/purescript-bouzuya-http-status-code]: https://github.com/bouzuya/purescript-bouzuya-http-status-code
 [bouzuya/purescript-bouzuya-st]: https://github.com/bouzuya/purescript-bouzuya-st

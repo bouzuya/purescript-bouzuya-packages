@@ -52,6 +52,12 @@ in  { bouzuya-command-line-option-parser =
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-method.git"
         "v0.3.0"
+    , bouzuya-http-request-normalized-path =
+        mkPackage
+        [ "strings"
+        ]
+        "https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path.git"
+        "v0.1.0"
     , bouzuya-http-server =
         mkPackage
         [ "aff"
