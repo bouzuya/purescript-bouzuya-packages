@@ -60,17 +60,15 @@ in  { bouzuya-command-line-option-parser =
         "v0.1.0"
     , bouzuya-http-server =
         mkPackage
-        [ "aff"
+        [ "arraybuffer"
         , "avar"
         , "bouzuya-http-method"
         , "bouzuya-http-status-code"
-        , "effect"
-        , "foreign-object"
         , "node-http"
-        , "prelude"
+        , "node-net"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-server.git"
-        "v0.1.0"
+        "v0.2.0"
     , bouzuya-http-status-code =
         mkPackage
         [ "maybe"
@@ -111,4 +109,12 @@ in  { bouzuya-command-line-option-parser =
         ]
         "https://github.com/bouzuya/purescript-bouzuya-uuid-v4.git"
         "v0.1.1"
+    -- FIXME: remove this
+    , node-net =
+        mkPackage
+        [ "node-fs"
+        , "options"
+        ]
+        "https://github.com/purescript-node/purescript-node-net.git"
+        "v1.0.0"
     }
