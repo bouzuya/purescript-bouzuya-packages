@@ -6,9 +6,10 @@ in  { bouzuya-command-line-option-parser =
         , "prelude"
         , "record"
         , "strings"
+        , "typelevel-prelude"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-command-line-option-parser.git"
-        "v0.2.0"
+        "v0.3.0"
     , bouzuya-datetime =
         mkPackage
         [ "datetime"
