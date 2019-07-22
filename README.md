@@ -22,7 +22,7 @@ A package set for [bouzuya](https://github.com/bouzuya).
 
 ```
 let bouzuya =
-      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190622/bouzuya.dhall sha256:42a3a314e27608c360776a8a45b2175cb5ca6ebc872a7f1170fca16291918f61
+      https://raw.githubusercontent.com/bouzuya/purescript-bouzuya-packages/20190722/bouzuya.dhall sha256:3bc4e1c44792f1e12f0771af153482ebf9908df127e8ea4cdbfe202c74db1f28
 
 let additions = {=} // bouzuya
 ```
