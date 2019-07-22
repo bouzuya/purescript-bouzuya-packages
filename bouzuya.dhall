@@ -48,11 +48,9 @@ in  { bouzuya-command-line-option-parser =
     , bouzuya-http-method =
         mkPackage
         [ "foldable-traversable"
-        , "maybe"
-        , "prelude"
         ]
         "https://github.com/bouzuya/purescript-bouzuya-http-method.git"
-        "v0.3.0"
+        "v1.0.0"
     , bouzuya-http-request-normalized-path =
         mkPackage
         [ "strings"
